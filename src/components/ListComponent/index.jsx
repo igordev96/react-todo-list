@@ -2,7 +2,6 @@ import { List } from './styles'
 import { Todo } from '../Todo'
 
 export function ListComponent(props) {
-
   return (
       <List>
         {/* <li> <input type="checkbox" /> Banana</li>
