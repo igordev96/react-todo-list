@@ -1,12 +1,13 @@
 
 # React To Do List
 
-A to do list made with React
+A to do list made with React, styled with Style-Components, consuming an API from a mocking library called MirageJS.
+To see it running with the "mocked backend" you have to run it locally
 
 
 ## Tech Stack
 
-React, Styled-Components
+React, Styled-Components, Axios and MirageJS
 
 
 ## Demo
